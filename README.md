@@ -1,2 +1,1 @@
-# .github
-서벤시온 팀 소개
+![Banner](https://github.com/subvencion-kr/.github/blob/main/subvc_readme.png)
